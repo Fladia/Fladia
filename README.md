@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Fladia/Fladia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Fládia Valéria Dantas dos Santos**, doutoranda em Economia, professora de Economia na URCA e pesquisadora.
 
-Here are some ideas to get you started:
+🎓 Doutoranda em Economia - Universidade Federal do Pernambuco (UFPE)  
+🏛️ Professora da Universidade Regional do Cariri (URCA)  
+📚 Áreas de interesse: mercado de trabalho, desigualdades regionais, finanças públicas, clima e saúde  
+🛠️ Ferramentas: Python, R, QGIS, Stata  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contato**: fladia.santos@urca.br  
+🔗 [Lattes](http://lattes.cnpq.br/2289645639118055)
+
+---
+
+> "Este espaço reúne algumas das minhas atividades acadêmicas e projetos de pesquisa."
